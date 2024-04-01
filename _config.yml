@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Site
-name: 'Mundana'
+name: 'Girgit Communication'
 description: 'building up next generation UCaaS System '
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -62,4 +62,4 @@ exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffe
 theme: jekyll-theme-minimal
 title: Girgit Communication 
 description: your all voip UCaaS and CPaaS systemm development help 
->>>>>>> 98cc4761aa9b92408b7fbe8df8fb6605d15344a4
+
