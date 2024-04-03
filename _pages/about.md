@@ -5,4 +5,4 @@ permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 comments: true
 ---
-Made with <i class="fa fa-heart text-danger"></i> by GirGit Communication [@wowthemesnet](https://www.github.com/business-expert).
+Made with <i class="fa fa-heart text-danger"></i> by GirGit Communication [@voip](https://www.github.com/business-expert).
